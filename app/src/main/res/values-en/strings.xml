@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Scoreboard</string>
+    <string name="second_dot">:</string>
+    <string name="flamingos">Flamingos</string>
+    <string name="fox">Fox</string>
+    <string name="score_of_match">Score of match</string>
+    <string name="reset_score">Reset score</string>
+    <string name="image_of_flamingos">Image of flamingos</string>
+    <string name="image_of_fox">Image of fox</string>
+</resources>

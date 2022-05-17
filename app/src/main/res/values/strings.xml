@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Табло</string>
+    <string name="second_dot">:</string>
+    <string name="flamingos">Фламинго</string>
+    <string name="fox">Лисы</string>
+    <string name="score_of_match">Счет матча</string>
+    <string name="reset_score">Обнулить счёт</string>
+    <string name="image_of_flamingos">Изображение Фламинго</string>
+    <string name="image_of_fox">Изображение Лиса</string>
+</resources>
